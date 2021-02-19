@@ -10,10 +10,9 @@ rfehirf
 rfbeirgbeirbgfiue vebruifgbeqr
 5th updated line
 6th line
-editing in 7th line again editing
+editing in 7th line
 8th updated line
 
 I just updated 10th line
-Bibhudhendra Pati
 
-Bibhudhendra
+Hello world
